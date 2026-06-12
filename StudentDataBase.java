@@ -9,7 +9,7 @@ public class StudentDataBase {
         
         private final String url= "jdbc:mysql://localhost:3306/mystudents";
         private final String username= "root";
-        private final String password= "nigger123";
+        private final String password= "///";
 
        private Connection getconnection() throws SQLException {
 
